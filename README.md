@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" alt="MASTER MERGER logo" width="200" />
+
 # 🗂️ MASTER MERGER
 
 ### دمج صور المانجا في ملفات PSD بطبقتين — Merge Manga Scans into Layered PSD
